@@ -1,0 +1,7 @@
+{
+  "name": "Học vui lớp 5",
+  "description": "Ứng dụng học tập thông minh dành cho học sinh lớp 5 với gia sư AI và bộ câu hỏi trắc nghiệm tự động.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
